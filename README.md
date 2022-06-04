@@ -12,8 +12,9 @@
 #### Aprenda a definir estilos para elementos usando o CSS
 #### Desenvolva um página Web
 
+#### Site Pronto
+![Web 2](https://github.com/williamsartijose/Forma-o-Front-end-Alura-/blob/main/tela.gif)
 #### Conteúdo Detalhado
-
 ![Web 2](https://github.com/williamsartijose/Forma-o-Front-end-Alura-/blob/main/grade1.PNG)
 ![Web 2](https://github.com/williamsartijose/Forma-o-Front-end-Alura-/blob/main/grade2.PNG)
 
